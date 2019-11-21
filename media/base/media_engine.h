@@ -12,7 +12,7 @@
 #define MEDIA_BASE_MEDIA_ENGINE_H_
 
 #if defined(WEBRTC_MAC) && !defined(WEBRTC_IOS)
-#include <CoreAudio/CoreAudio.h>
+//#include <CoreAudio/CoreAudio.h>
 #endif
 
 #include <memory>
