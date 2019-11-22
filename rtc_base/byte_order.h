@@ -10,6 +10,8 @@
 
 #ifndef RTC_BASE_BYTE_ORDER_H_
 #define RTC_BASE_BYTE_ORDER_H_
+#define WEBRTC_MAC
+#define WEBRTC_POSIX
 
 #include <stdint.h>
 

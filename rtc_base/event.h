@@ -10,6 +10,7 @@
 
 #ifndef RTC_BASE_EVENT_H_
 #define RTC_BASE_EVENT_H_
+#define WEBRTC_POSIX
 
 #if defined(WEBRTC_WIN)
 #include <windows.h>
